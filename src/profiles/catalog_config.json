@@ -1,0 +1,58 @@
+{
+    "//": "BR Item Shop Config",
+    "daily1": {
+        "itemGrants": [
+            "AthenaPickaxe:Pickaxe_ID_100_DieselPunk"
+        ],
+        "price": 800
+    },
+    "featured1": {
+        "itemGrants": [
+            "AthenaGlider:Glider_ID_196_CycloneMale"
+        ],
+        "price": 0
+    },
+    "daily2": {
+        "itemGrants": [
+            "AthenaCharacter:CID_046_Athena_Commando_F_HolidaySweater"
+        ],
+        "price": 800
+    },
+    "featured2": {
+        "itemGrants": [
+            "AthenaCharacter:CID_761_Athena_Commando_M_CycloneSpace","AthenaBackPack:BID_520_CycloneUniverse"
+        ],
+        "price": 0
+    },
+    "daily3": {
+        "itemGrants": [
+            "AthenaDance:EID_HappySkipping"
+        ],
+        "price": 500
+    },
+    "daily4": {
+        "itemGrants": [
+            "AthenaItemWrap:Wrap_034_Waypoint"
+        ],
+        "price": 300
+    },
+    "daily5": {
+        "itemGrants": [
+            "AthenaDance:EID_ElectroShuffle"
+        ],
+        "price": 500
+    },
+    "daily6": {
+        "itemGrants": [
+            "AthenaGlider:Glider_ID_026_ShuttleB"
+        ],
+        "price": 800
+    },
+    "featured3": {
+        "itemGrants": [
+            "AthenaCharacter:CID_703_Athena_Commando_M_Cyclone","AthenaBackPack:BID_468_Cyclone"
+        ],
+        "price": 0
+    },
+    "expiration": "2024-07-15T14:00:00.000Z"
+}
