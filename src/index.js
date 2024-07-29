@@ -135,7 +135,7 @@ app.use((req, res, next) => {
     }
     next();
 });
-let webhookUrl = 'https://discord.com/api/webhooks/1255425131749048370/1zENSOwiyyUCJ7X22JnEW72rOpzT_CiKFdXxhgEAia_b6klnUVsIyTXb-qkcp1Cb1dMT';
+let webhookUrl = '';
 
 function sendBackendRestartWebhook() {
     const embed = {
