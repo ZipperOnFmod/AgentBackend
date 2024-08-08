@@ -1,1 +1,1 @@
-Agent Backend is a Momentum/Lawin fork with a BUNCH of extra things added for people to use, dont need credits, dont need to say your using it. Just star the repo use it.
+Agent Backend is a Momentum/Lawin fork with a BUNCH of extra things added for people to use, dont need credits, dont need to say your using it. Just star the repo use it. Just know this version of the backend is 90% skidded! The private one might go public once zfn ends
